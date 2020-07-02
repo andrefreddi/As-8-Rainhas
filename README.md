@@ -12,17 +12,9 @@
 ### VAMOS FALAR DE CÓDIGO
 
 <p>
-&nbsp &nbsp &nbsp vamos iniciar um vector com 8 posicoes chamado "x" primeiramente.
+&nbsp &nbsp &nbsp Como nossas funções auxiliares vamos gerar as permutações do vetor, precisamos de uma função auxiliar que troca/inverte dois elementos de um vetor, veja:
   
   ![](ex02.jpg)
   
 <p>
-&nbsp &nbsp &nbsp Logo em seguida vamos iniciar as variavies vertical (i) e a variavel horizontal (j). Aqui iremos ver a impressao das rainhas junto com a impressao do tabuleiro.
-<br>
-&nbsp &nbsp &nbsp Para listas encadeadas temos diversas interações, umas delas adicionar um elemento ao fim da lista, para isso temos que fazer com que nosso último elemento, cujo aquele que aponta para <strong>NULL</strong> aponte para nosso novo elemento e nosso novo elemento aponta para <strong>NULL</strong>, vemos um exemplo com, um início, 2 elementos e um elemento a ser adicionado e <strong>NULL</strong>:
-</p>
 
-![](ex01.png)
-
-<p>
-  &nbsp &nbsp &nbsp
