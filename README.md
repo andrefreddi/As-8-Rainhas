@@ -1,8 +1,10 @@
-# Resumo sobre alocação de memória/listas/pilhas
+# AS 8 RAINHAS 
 
-### Memória
+### O QUE EXATAMENTE SERIA O PROBLEMA
 <p>
-&nbsp &nbsp &nbsp Inicialmente não podemos esquecer do include <strong><stdlib.h></strong> que será responsável pelas funções <strong>malloc()</strong> e <strong>free()</strong>. Na alocação estática de memória o compilador aloca de maneira automática a memória para uso, sendo assim a tendência do programa é reservar mais memória do que realmente precisa e desperdiçando.  Já na alocação dinâmica podemos alocar memória durante a execução de um programa, a alocação é feita durante a execução. Abrindo assim a possibilidade de alocar memória somente quando necessário e podendo ter controle também da quantidade que vai ser alocada, sendo assim mais memória que o convencional ou até menos.
+&nbsp &nbsp &nbsp Bom, é possivel colocar 8 rainhas em um tabuleiro só ? sabendo que as rainhas tem um movimento bem completo isso realmente pode sim se tornar um grande desafio, primeiramente acho interessante entendermos como a rainha se movimenta: 
+<br>
+  ![](ex01.jpg)
 <br>
 &nbsp &nbsp &nbsp A função <strong>“sizeof”</strong> determina o número de bytes para um determinado tipo de dados. Já a função <strong>“malloc”</strong> ela aloca espaço de memória e retorna um ponteiro do tipo void para o início do espaço de memória alocado. E por fim a função <strong>“free”</strong> que tem sua função de liberar a memória alocada.
 </p>
