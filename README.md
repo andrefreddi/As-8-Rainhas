@@ -27,8 +27,16 @@
   ![](ex04.jpg)
 
 <p>
-&nbsp &nbsp &nbsp Para iniciamos os nossos testes de permutacao, vamos comecar com a construção do vetor que apresenta na imagem como "int linhas[8]". Logo em seguida chamamos a função recursiva TestaPermutacoes, responsável por gerar as permutações, iniciando no índice zero.
+&nbsp &nbsp &nbsp Para iniciamos os nossos testes de permutação, vamos começar com a construção do vetor que apresenta na imagem como "int linhas[8]". Logo em seguida chamamos a função recursiva TestaPermutacoes, responsável por gerar as permutações, iniciando no índice zero.
   
   ![](ex05.jpg)
 
 <p>
+&nbsp &nbsp &nbsp Na função TestaPermutacoes, os elementos com índices menores que k estão fixos. A função deve gerar as permutações dos elementos com índices maiores ou iguais a k. Se k=8, então todos elementos estão fixos e o vetor deve ser verificado e impresso (caso trivial). Caso contrário, fixamos um novo elemento na posição k e testamos as permutações a partir do índice k+1. Repetimos esse processo fixando todos os possíveis elementos na posição k.
+  
+  ![](ex06.jpg)
+  
+<p>
+&nbsp &nbsp &nbsp Okay, falei falei falei e ainda não mostrei nada! Então vamos ver como fica esse código funcionando, lembrando que o código original é em C e estará disponível aqui neste repositório a versão c. Executando ele podemos notar que nos da não uma solução, mas sim 92 soluções, vamos analisar melhor o que ele nos deu de resultado.
+  
+  ![](ex07.jpg)
