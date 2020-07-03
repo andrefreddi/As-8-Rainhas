@@ -17,4 +17,9 @@
   ![](ex02.jpg)
   
 <p>
+&nbsp &nbsp &nbsp Precisamos tambem verificar as nossas diagonais, e quem fara esse trabalho sera uma função que verifica se uma dada permutação do vetor linhas corresponde a uma solução do problema, veja.
 
+  ![](ex03.jpg)
+  
+<p>
+  
