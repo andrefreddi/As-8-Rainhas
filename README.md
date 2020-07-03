@@ -40,3 +40,13 @@
 &nbsp &nbsp &nbsp Okay, falei falei falei e ainda não mostrei nada! Então vamos ver como fica esse código funcionando, lembrando que o código original é em C e estará disponível aqui neste repositório a versão c. Executando ele podemos notar que nos da não uma solução, mas sim 92 soluções, vamos analisar melhor o que ele nos deu de resultado.
   
   ![](ex07.jpg)
+
+<p>
+&nbsp &nbsp &nbsp Agora que vimos que ele gera varios resultados diferentes de solucoes, vamos focar em uma apenas, irei pegar a numero 92 e, vamos pegar uma Rainha "R" e vejamos se ela de fato esta comprinto seu papel de nao poder tocar em ninguem (medidas preventivas do covid-19).
+  
+  ![](ex08.jpg)
+  
+<p>
+&nbsp &nbsp &nbsp E por fim, vamos ver como de fato ficaria cada Rainha com o traço de ataque, bom fica uma bagunça mas assim podemos ver de fato que as linhas sempre passam em redor das Rainhas e nunca a tocam, assim mantendo nossas Rainhas todas em segurança.
+  
+  ![](ex09.jpg)
