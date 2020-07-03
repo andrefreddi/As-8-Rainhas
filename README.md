@@ -22,4 +22,13 @@
   ![](ex03.jpg)
   
 <p>
+&nbsp &nbsp &nbsp Para imprimir as soluções encontradas podemos utilizar isso: 
   
+  ![](ex04.jpg)
+
+<p>
+&nbsp &nbsp &nbsp Para iniciamos os nossos testes de permutacao, vamos comecar com a construção do vetor que apresenta na imagem como "int linhas[8]". Logo em seguida chamamos a função recursiva TestaPermutacoes, responsável por gerar as permutações, iniciando no índice zero.
+  
+  ![](ex05.jpg)
+
+<p>
