@@ -42,7 +42,7 @@
   ![](ex07.jpg)
 
 <p>
-&nbsp &nbsp &nbsp Agora que podemos ver que ele gera varios resultados diferentes de solucoes, vamos focar em uma apenas, irei pegar a numero 92 e, vamos pegar uma Rainha "R" e vejamos se ela de fato esta comprinto seu papel de nao poder tocar em ninguem (medidas preventivas do covid-19).
+&nbsp &nbsp &nbsp Agora que podemos ver que ele gera vários resultados diferentes de soluções, vamos focar em uma apenas, irei pegar a numero 92 e, vamos pegar uma Rainha "R" e vejamos se ela de fato esta cumprindo seu papel de não poder tocar em ninguém (medidas preventivas do covid-19).
   
   ![](ex08.jpg)
   
